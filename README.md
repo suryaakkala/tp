@@ -13,5 +13,5 @@ Send button: 562 to 596
 
 Mode switch: 598 to 663
 
-GOTO: index.html Line 665 for changing js script
+GOTO: index.html Line 666 for changing js script
 
