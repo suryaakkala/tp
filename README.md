@@ -7,6 +7,8 @@ index.html:
 -----------
 CSS: Style block from 6 to 555
 
+Text box: line 559 to 560 
+
 Send button: 561 to 595
 
 Mode switch: 597 to 662
